@@ -8,6 +8,7 @@ This is a simple program with some CC Tool, it works basically with Luhn algorit
 <img src='cc tools img.png'>
 
 # Features 🌠
+<a href="https://heroku.com/deploy?template=https://github.com/1LCB/CC-Tools"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 ## CC Generator
 - Generate cards with a specific BIN
